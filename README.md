@@ -1,4 +1,4 @@
-### Hi there 👋 Thanks for stopping by! 
+### Hello👋! Thanks for stopping by! 
 ### Welcome to my Github
 
 - 🔭 I’m currently working on Image Classification using OpenCV
