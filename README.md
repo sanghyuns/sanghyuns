@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**sanghyuns/sanghyuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 Thanks for stopping by! 
+### Welcome to my Github
 
 - 🔭 I’m currently working on Image Classification using OpenCV
 - 🌱 I’m currently learning ...
@@ -11,4 +7,3 @@ Here are some ideas to get you started:
 * email: sang21seo@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an avid gamer 
--->
