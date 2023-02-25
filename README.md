@@ -6,3 +6,4 @@
 - 📫 How to reach me: sang21seo@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an avid gamer 
+- Please check out my Tableau data visualizations here! https://public.tableau.com/app/profile/shawn.seo
