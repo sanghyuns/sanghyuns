@@ -1,8 +1,8 @@
 ### Hello! 👋 Thanks for stopping by! 
 ### Welcome to my Github
 
-- 🔭 I’m currently working on an application for drowsiness detection for drivers
-- 🌱 I’m currently learning Image Classification using OpenCV
+- 🔭 I’m currently improving my SQL skills!
+- 🌱 I am looking to learn more python libraries 
 - 📫 How to reach me: sang21seo@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an avid gamer 
